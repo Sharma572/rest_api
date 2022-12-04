@@ -9,6 +9,11 @@
       "name": "raunak",
       "id": 3,
       "age": 22
+    },
+    {
+      "id": 2,
+      "name": "Ajay",
+      "age": 34
     }
   ]
 }
